@@ -16,3 +16,4 @@ sm
 
 https://github.com/ShadowWhisperer/Remove-MS-Edge
 
+key **https://github.com/massgravel/microsoft-activation-scripts**
