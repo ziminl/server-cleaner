@@ -10,3 +10,9 @@ resistance
 cpu cluck - hd
 
 sm
+
+
+#win - delete edge
+
+https://github.com/ShadowWhisperer/Remove-MS-Edge
+
